@@ -1,3 +1,5 @@
+# Shamelessly ripped from https://kubernetes.dask.org/en/latest/operator_resources.html
+
 # cluster.yaml
 apiVersion: kubernetes.dask.org/v1
 kind: DaskCluster
